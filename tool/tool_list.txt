@@ -1,2 +1,6 @@
 #toolset
 1.https://docs.microsoft.com/zh-cn/sysinternals/downloads/
+
+
+#office analysis tool
+1.https://github.com/decalage2/oletools (for example  olevba can extact macro fom doc)
