@@ -3,4 +3,4 @@
 
 
 #office analysis tool
-1.https://github.com/decalage2/oletools (for example  olevba can extact macro fom doc)
+1.https://github.com/decalage2/oletools (for example  olevba can extact macro from doc)
